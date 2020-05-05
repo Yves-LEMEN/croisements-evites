@@ -1,2 +1,2 @@
 # croisements-evites
-première émission
+ajouté le calcul de la probabilité de Landau-Zener/ amélioré la boucle principale
